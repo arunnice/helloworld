@@ -1,6 +1,3 @@
 welcome2
 
 modified at 10:27 PM
-
-
-git unwantnted data
